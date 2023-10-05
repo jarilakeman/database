@@ -1,0 +1,4 @@
+TAKE OWNERSHIP = je kan alles wijzigen - hackers kunnen alles veranderen in je database
+VIEW DEFINITION = alle klassen van objecten - ze kunnen hier niet heel veel me
+ALTER = alle klassen van objecten behalve type - ze kunnen hier niet heel veel me
+IMPERSONATE = login en gebruikers -ze kunnen hier niet heel veel me
